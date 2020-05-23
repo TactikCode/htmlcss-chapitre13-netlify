@@ -46,7 +46,8 @@ img {
   margin-bottom: 5rem !important; }
 
 .mb-2 {
-  margin-bottom: 2rem !important; }
+  margin-bottom: 2rem !important;
+  font-size: 2rem; }
 
 @keyframes bounce {
   0% {
@@ -119,7 +120,7 @@ aside {
       font-size: 1.4rem; }
     aside .block p {
       margin: 0 0 2rem 0;
-      font-style: italic; }
+      font-style: normal; }
     aside .block .bar-skill {
       margin: 2rem 0;
       height: 5px;
